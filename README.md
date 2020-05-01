@@ -1,5 +1,5 @@
 # Dual Learning of NLU and NLG
-> The implementation of the papers [*"Dual supervised learning for natural language understanding and generation"*](https://arxiv.org/abs/1905.06196) (ACL 2019) and *"Towards Unsupervised Language Understanding and Generation by Joint Dual Learning"* (ACL 2020)
+> The implementation of the papers [*"Dual supervised learning for natural language understanding and generation"*](https://arxiv.org/abs/1905.06196) (ACL 2019) and [*"Towards Unsupervised Language Understanding and Generation by Joint Dual Learning"*](https://arxiv.org/abs/2004.14710) (ACL 2020)
 
 
 ## Requirements

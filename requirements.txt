@@ -3,5 +3,5 @@ spacy
 nltk
 sumeval
 tensorboardX
-sklearn
+scikit-learn
 pyemd

@@ -109,6 +109,7 @@ python3 run_dual_inf.py \
 @inproceedings{su2020dual,
   title={Dual Inference for Improving Language Understanding and Generation},
   author={Su, Shang-Yu and Chuang, Yung-Sung and Chen, Yun-Nung},
+   booktitle = {Findings of EMNLP 2020},
     year={2020}
 }
 ```

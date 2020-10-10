@@ -1,0 +1,5 @@
+__pycache__
+/data
+src/test_results.txt
+.ipynb_checkpoints
+*.ipynb

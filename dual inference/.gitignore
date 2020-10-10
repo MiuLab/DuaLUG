@@ -1,0 +1,10 @@
+__pycache__
+/data/model*
+/data/log*
+/data/E2ENLG
+/data/*.pkl
+
+src/test_results.txt
+.ipynb_checkpoints
+*.ipynb
+*.sh

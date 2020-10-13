@@ -1,5 +1,5 @@
 # Dual Inference of NLU and NLG
-> The implementation of the paper [*"Dual Inference for Improving Language Understanding and Generation"*](https://arxiv.org/abs/xxxxx.xxxxx) (EMNLP 2020)
+> The implementation of the paper [*"Dual Inference for Improving Language Understanding and Generation"*](https://arxiv.org/abs/2010.04246) (Findings of EMNLP 2020)
 
 ## Requirements
 * Python >= 3.6

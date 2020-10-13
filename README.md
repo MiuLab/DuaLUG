@@ -2,7 +2,7 @@
 > The implementation of the papers:  
 >  1. [*"Dual supervised learning for natural language understanding and generation"*](https://arxiv.org/abs/1905.06196) (ACL 2019) --> dual training/   
 >  2. [*"Towards Unsupervised Language Understanding and Generation by Joint Dual Learning"*](https://arxiv.org/abs/2004.14710) (ACL 2020) --> dual training/    
->  3. [*"Dual Inference for Improving Language Understanding and Generation"*](https://arxiv.org/abs/xxxxx.xxxxx) (Findings of EMNLP 2020) --> dual inference/  
+>  3. [*"Dual Inference for Improving Language Understanding and Generation"*](https://arxiv.org/abs/2010.04246) (Findings of EMNLP 2020) --> dual inference/  
 
 
 ## References
